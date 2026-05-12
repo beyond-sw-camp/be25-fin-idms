@@ -1,6 +1,6 @@
 <body>
 <main class="container">
-  <h1>DIMS - 방산 장비 통합 유지보수 관리 플랫폼</h1>
+  <h1>IDMS - 방산 장비 통합 유지보수 관리 시스템</h1>
   <img width="1920" height="1080" src="images\ATLAS.png" />
   <img width="1920" height="1080" src="images\발주관리.png" />
 
