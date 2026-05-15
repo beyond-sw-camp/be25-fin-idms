@@ -1,5 +1,4 @@
 <body>
-<main class="container">
   <h1>IDMS - 방산 장비 통합 유지보수 관리 시스템</h1>
   
   <h2>소개</h2>
