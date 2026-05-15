@@ -56,22 +56,22 @@
 ㅇ 추가 조치 필요 사항 및 비고 작성 기능  
 - 방산업체는 군이 입력한 데이터를 기반으로 장비 문제를 신속하게 파악하고 대응할 수 있으며, 정비 결과를 시스템에 기록하여 관리 효율을 높일 수 있다.
 
-3) 통합 관리 기능  
-ㅇ 장비별 유지보수 이력 관리  
-ㅇ 실시간 유지보수 상태 공유  
-ㅇ 사용자 권한 분리(군/업체)  
-ㅇ 웹 기반 시스템으로 장소 제약 없이 접근 가능
+3) 통합 관리 기능<br>
+ㅇ 장비별 유지보수 이력 관리<br>
+ㅇ 실시간 유지보수 상태 공유<br>
+ㅇ 사용자 권한 분리(군/업체)<br>
+ㅇ 웹 기반 시스템으로 장소 제약 없이 접근 가능<br>
 </details>
 
 <details>
   <summary><b>기술 스택</b></summary>
 ㅇ 프론트엔드<br>
- - HTML, CSS, Vue.js  
-ㅇ 백엔드  
- - Java, Spring Boot, Lombok, Gradle  
-ㅇ 데이터베이스  
- - MariaDB  
-ㅇ 기타  
+ - HTML, CSS, Vue.js<br>
+ㅇ 백엔드<br>
+ - Java, Spring Boot, Lombok, Gradle<br>
+ㅇ 데이터베이스<br>
+ - MariaDB<br>
+ㅇ 기타<br>
  - GitHub, Figma  
 </details>
 
