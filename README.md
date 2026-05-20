@@ -77,18 +77,15 @@ IDMS는 군과 방산업체 간의 유지보수 정보를 통합적으로 관리
 <section id="documents">
   <h2>3. 기술 문서</h2>
   
-  ### [요구사항 명세서](https://docs.google.com/spreadsheets/d/12Z5e3kv_ASwccCq8zkx-XWyJI96jWCwZg7qwntj3t-M/edit?usp=sharing)
+  ### [요구사항 명세서/WBS](https://docs.google.com/spreadsheets/d/12Z5e3kv_ASwccCq8zkx-XWyJI96jWCwZg7qwntj3t-M/edit?usp=sharing)
   <details>
     <summary><b>요구사항 명세서</b></summary>
     <img width="" height="" src="images\스크린샷 2026-05-08 101817.png" />
-    <img width="" height="" src="images\스크린샷 2026-05-08 101822.png" />
-    <img width="" height="" src="images\스크린샷 2026-05-08 101825.png" />
   </details>
 
-  ### [WBS](https://docs.google.com/spreadsheets/d/12Z5e3kv_ASwccCq8zkx-XWyJI96jWCwZg7qwntj3t-M/edit?usp=sharing)
-  <details>
+    <details>
     <summary><b>WBS</b></summary>
-    <img width="" height="" src="images\스크린샷 2026-05-08 101457.png" />
+    <img width="" height="" src="images\스크린샷 2026-05-08 101817.png" />
   </details>
 
   ### [시스템 아키텍처](링크주소)
