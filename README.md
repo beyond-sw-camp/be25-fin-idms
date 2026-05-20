@@ -83,7 +83,7 @@ IDMS는 군과 방산업체 간의 유지보수 정보를 통합적으로 관리
     <img width="" height="" src="images\스크린샷 2026-05-08 101817.png" />
   </details>
 
-    <details>
+  <details>
     <summary><b>WBS</b></summary>
     <img width="" height="" src="images\스크린샷 2026-05-08 101817.png" />
   </details>
