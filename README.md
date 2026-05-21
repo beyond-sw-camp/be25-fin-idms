@@ -82,24 +82,11 @@ IDMS는 군과 방산업체 간의 유지보수 정보를 통합적으로 관리
   ### [시스템 아키텍처](https://www.figma.com/design/62LHeSuSXYrSBCGB0dAJaO/%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98?node-id=0-1&t=cR0mF9E2sMW8YQX9-1)
 
   ### [ERD](링크주소)
-  <details>
-    <summary><b>ERD</b></summary>
-    <img width="" height="" src="images/erd.png" />
-  </details>
 
   ### [화면 설계서](링크주소)
-  <details>
-    <summary><b>화면 설계서</b></summary>
-    <img width="569" height="548" src="images/발주관리.png" />
-    <img width="569" height="548" src="images/출하대표.png" />
-    <img width="569" height="548" src="images/정산관리2.png" />
-  </details>
   
   ### [API 명세서](링크주소)
-  <details>
-    <summary><b>API 명세서</b></summary>  
-    <img width="" height="" src="images\스크린샷 2026-05-08 101024.png" />
-  </details>
+
 </section>
 
 </body>
