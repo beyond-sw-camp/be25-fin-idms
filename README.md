@@ -83,9 +83,9 @@ IDMS는 군과 방산업체 간의 유지보수 정보를 통합적으로 관리
 
   ### [ERD](https://www.erdcloud.com/d/9iY3H7fxuEcdCnRAM)
 
-  ### [화면 설계서](https://www.figma.com/design/VzPN9PXJbSt9dwpkbKsYj7/%ED%99%94%EB%A9%B4-%EC%84%A4%EA%B3%84%EC%84%9C?node-id=0-1&t=hFXre52Xcf8X5Lo1-1)
+  ### [화면 설계서](https://www.figma.com/design/VzPN9PXJbSt9dwpkbKsYj7/%ED%99%94%EB%A9%B4-%EC%84%A4%EA%B3%84%EC%84%9C?node-id=0-1&t=dCvZmipl8f7G9pyZ-1)
   
-  ### [API 명세서](링크주소)
+  ### [API 명세서](https://docs.google.com/spreadsheets/d/12Z5e3kv_ASwccCq8zkx-XWyJI96jWCwZg7qwntj3t-M/edit?usp=sharing)
 
 </section>
 
